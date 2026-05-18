@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TradeX - Trade the World's Markets</title>
+    <meta property="og:title" content="TradeX - Trade the World's Markets" />
+    <meta property="og:description" content="Access 2,000+ instruments with ultra-low spreads. Trade forex, crypto, indices, and commodities." />
+    <meta property="og:image" content="https://bolt.new/static/og_default.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="https://bolt.new/static/og_default.png" />
+    <style>
+      @keyframes scroll-x {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-50%); }
+      }
+      .animate-scroll-x {
+        animation: scroll-x 30s linear infinite;
+        width: max-content;
+      }
+      .animate-scroll-x:hover {
+        animation-play-state: paused;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
