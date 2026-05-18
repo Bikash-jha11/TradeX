@@ -7,6 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+<<<<<<< HEAD
 # Dependencies
 node_modules
 
@@ -17,6 +18,11 @@ dist-ssr
 # Local env files
 .env
 .env.*
+=======
+node_modules
+dist
+dist-ssr
+>>>>>>> made UI more better
 *.local
 
 # Editor directories and files
@@ -29,8 +35,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 
 node_modules
 .env
 dist
 /generated/prisma
+=======
+>>>>>>> made UI more better
