@@ -1,6 +1,8 @@
 # TradeX Clone - Fullstack Trading Platform
 
 A production-grade exness-style trading platform with real-time market simulation, caching message queue for order processing, and a complete trading workflow.
+<img width="1377" height="670" alt="image" src="https://github.com/user-attachments/assets/a3406729-ea19-4bbc-8fdb-eb14ddd37faf" />
+
 
 ---
 
